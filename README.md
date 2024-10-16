@@ -1,2 +1,1 @@
-# shell
-A simple shell implementation
+A simple implementation of shell.
